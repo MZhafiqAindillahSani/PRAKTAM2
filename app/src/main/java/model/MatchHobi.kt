@@ -4,5 +4,5 @@ data class Hobi(
     val nama: String,
     val deskripsi: String,
     val jumlahMinat: Int,
-    val imageRes: Int
+    val imageRes: Int,
 )

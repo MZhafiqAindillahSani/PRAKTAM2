@@ -9,7 +9,7 @@
         android:theme="@style/Theme.PRAKTAM2">
 
         <activity
-            android:name=".MainActivity"
+            android:name="MainActivity"
             android:exported="true">
 
             <intent-filter>
